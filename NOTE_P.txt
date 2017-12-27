@@ -41,3 +41,6 @@ http://www.tuvanduyanh.com/Download/Ichimoku%20Charts%20An%20Introduction%20to%2
 (Highest High + Lowest Low)/2, for the past 52 periods, plotted 26 periods ahead
 5. Chikou Span
 Today’s closing price plotted 26 periods behind
+
+Firstly, if today’s candle is above the Cloud, the trend is for higher prices. The top of the Cloud
+is the first level of support and the bottom is the second level of support.
