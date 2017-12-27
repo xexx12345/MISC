@@ -1,2 +1,43 @@
 daily vol of zpr? Max drawdown? Viable cash sub?
 
+Barbell Strategy:
+http://www.fooledbyrandomness.com/brown-q.pdf
+
+Indeed I want to have it both ways:
+guaranteed floor and maximal
+upside — the barbell strategies I propose; the right mixture of
+greed and paranoia. I want a safety of a minimal income with
+the out-of-the-money dream
+
+Tenken (conversion) - 10 period MA (short term) Mid of total Range over past 9 days
+Kinjun (Base) - If price is above the Kinjun-Sen Line then the stock is in bullish territory, likewise if it
+is below the line it is in bearish territory. This line is calculated by taking the midpoint between the
+highest high and the lowest low over the past 26 periods. 
+Senkou A This line forms one of the boundaries of the ‘cloud.’ If the stock is trading above the
+line then the line will serve as a major support level. If price is below this line it will serve as a level of
+major resistance. This component is calculated by taking the average of the Tenkan-Sen and Kinjun-Sen
+lines. This line is unique in that the results of this calculation are plotted 26 periods ahead. This means
+that today’s Senkou Span A line was actually plotted 26 days ago
+Senkou B Senkou Span B: This line forms the other boundary of the ‘cloud.’ This line serves as a second level of
+support or resistance and is calculated by taking the midpoint between the highest high and the lowest low
+over the past 52 periods. Like the Senkou Span A line, this is also plotted 26 periods ahead. This line is
+similar to a 50% Fibonacci retracement.
+Kumo This is the shaded area, located between the Senkou Span A and Senkou Span B lines, that is used
+to form ‘the cloud’ itself.
+Chinkou This line is also known as the lagging indicator. This line is the current bar’s
+closing price plotted 26 periods back. The lagging indicator is often used as confirmation of signals and
+can also serve as a support and resistance level. The lagging indicator can also assist a trader in
+confirming the direction and strength of trends.
+
+http://www.tuvanduyanh.com/Download/Ichimoku%20Charts%20An%20Introduction%20to%20Ichimoku%20Kinko%20Clouds.pdf
+
+1. Tenkan-sen
+(Highest High + Lowest Low)/2, for the past 9 periods
+2. Kijun-Sen
+(Highest High + Lowest Low)/2, for the past 26 periods
+3. Senkou Span A
+(Tenkan-Sen + Kijun-Sen)/2, plotted 26 periods ahead
+4. Senkou Span B
+(Highest High + Lowest Low)/2, for the past 52 periods, plotted 26 periods ahead
+5. Chikou Span
+Today’s closing price plotted 26 periods behind
