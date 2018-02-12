@@ -44,3 +44,7 @@ Today’s closing price plotted 26 periods behind
 
 Firstly, if today’s candle is above the Cloud, the trend is for higher prices. The top of the Cloud
 is the first level of support and the bottom is the second level of support.
+
+
+Dual Momentum:
+https://www.quantopian.com/posts/problems-reproducing-antonaccis-dual-momentum-gem-strategy
