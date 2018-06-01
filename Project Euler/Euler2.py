@@ -9,8 +9,8 @@ def fib(n):
         temp = a + b
         a = b
         b = temp
-        
-        
+
+
 def fib1(n):
     a = 1
     b = 2
@@ -19,3 +19,5 @@ def fib1(n):
         print(a)
         a, b = b, a + b
 
+
+print("hello")
